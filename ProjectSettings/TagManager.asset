@@ -12,6 +12,7 @@ TagManager:
   - InventoryManager
   - WolfAttack
   - Dead
+  - ItemSpawn
   layers:
   - Default
   - TransparentFX
